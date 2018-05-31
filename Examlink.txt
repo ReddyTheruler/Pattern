@@ -1,6 +1,5 @@
 Basic Assessment:
-https://github.com/ReddyTheruler/Pattern.git
-
+http://thehtml5quiz.com/
 
 Second:
 http://jangareddy.in/QuizExamm/
