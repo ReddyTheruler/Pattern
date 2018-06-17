@@ -1,5 +1,4 @@
-Basic Assessment:
-http://thehtml5quiz.com/
 
-Second:
-http://jangareddy.in/QuizExamm/
+
+Quiz:
+http://jangareddy.in/Quizz/
